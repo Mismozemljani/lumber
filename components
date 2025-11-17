@@ -1,1 +1,19 @@
-<content for components>
+{
+  "name": "lumber-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "eslint": "^8.52.0",
+    "prettier": "^3.0.3"
+  }
+}
