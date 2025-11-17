@@ -1,0 +1,11 @@
+Šifra,Lokacija,Projekat,Naziv,Dobavljač,Cena,Ulaz,Okov Ime,Okov Cena,Okov Kom,Ploče Ime,Ploče Cena,Ploče Kom
+WH-001,A1-R2-S3,A15,Vijci M6x20,Dobavljač A,0.50,500,,,,,
+WH-002,B2-R1-S4,A15,Matice M6,Dobavljač B,0.30,1000,,,,,
+WH-003,C3-R2-S1,B22,Šarke 100mm,Dobavljač A,5.50,200,,,,,
+WH-004,D1-R3-S2,C33,Brave sa ključem,Dobavljač C,25.00,50,,,,,
+WH-005,E2-R1-S5,Skladište,Iverica 18mm,Dobavljač D,1200.00,20,,,,,
+WH-006,F1-R2-S3,A15,Zavrtnji M8x30,Dobavljač A,0.75,800,,,,,
+WH-007,G3-R1-S2,B22,Podloške M8,Dobavljač B,0.15,1500,,,,,
+WH-008,H2-R3-S4,C33,Ručke za vrata,Dobavljač E,12.50,100,Ručka Inox,12.50,100,,,
+WH-009,I1-R2-S1,Skladište,MDF ploča 16mm,Dobavljač D,950.00,30,,,,MDF 16mm,950.00,30
+WH-010,J2-R1-S3,A15,Klizači za fioke,Dobavljač F,8.00,150,Klizač 450mm,8.00,150,,,
